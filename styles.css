@@ -307,8 +307,6 @@ section#gallery h2 {
     background-color: #007bff;
     border: none;
     transition: background-color 0.3s;
-    margin: 5px;
-    border-radius: 2px;
 }
 
 .btn-primary:hover {
